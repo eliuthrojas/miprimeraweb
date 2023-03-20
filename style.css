@@ -1,0 +1,25 @@
+body{
+    color: #9e87d9;
+    /*Ponerle color al fonfo*/
+    background-color: #abe2e2;
+    font-family: 'Catamaran', sans-serif;
+}
+
+h1{color: #6a5d8a;
+
+}
+
+h3{color: #291709;}
+
+img{
+    width: 400px; /*Width para el ancho de imágenes*/
+    height: 250px;
+    padding: 20px;
+    margin: 20px;
+}
+
+footer{
+    background-color: #052523;
+    padding: 20px;
+    
+}
