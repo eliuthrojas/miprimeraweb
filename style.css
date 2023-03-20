@@ -2,6 +2,11 @@ body{
     color: #9e87d9;
     /*Ponerle color al fonfo*/
     background-color: #abe2e2;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+
+    /*Tipo de letra*/
     font-family: 'Catamaran', sans-serif;
 }
 
